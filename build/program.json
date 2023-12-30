@@ -1,6 +1,7 @@
 {
-    "program": "core.aleo",
+!   "program": "core.aleo",
     "version": "0.0.0",
     "description": "",
     "license": "MIT"
 }
+ 
